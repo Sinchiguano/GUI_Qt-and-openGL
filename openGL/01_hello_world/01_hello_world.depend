@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1538171183 source:/home/casch/GUI_c++/openGL/01_hello_world/main.cpp
+	<iostream>
+	"display.h"
+
+1538171082 source:/home/casch/GUI_c++/openGL/01_hello_world/display.cpp
+	"display.h"
+	<iostream>
+	<string>
+
+1538171101 /home/casch/GUI_c++/openGL/01_hello_world/display.h
+	<string>
+

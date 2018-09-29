@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538242315 source:/home/casch/GUI_c++/openGL/08_dynamic_memory_pointer/main.cpp
+	<iostream>
+	<new>
+

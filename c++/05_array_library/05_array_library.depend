@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538238719 source:/home/casch/GUI_c++/openGL/05_array_library/main.cpp
+	<iostream>
+	<array>
+	<string>
+

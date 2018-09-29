@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538213604 source:/home/casch/GUI_c++/c++/01_cin_string/main.cpp
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
